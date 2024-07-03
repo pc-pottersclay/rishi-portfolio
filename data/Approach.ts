@@ -11,8 +11,8 @@ export const approach = [
     {
         order: "Phase 2",
         heading:"Development & Progress Update",
-        desc:`Once we agree on the plan, I cue my lofi playlist and dive into
-        coding. From initial sketches to polished code, I keep you updated
+        desc:`Once we agree on the plan, we dive into
+        coding, From initial sketches to polished code, we keep you updated on 
         every step of the way.`,
         bgColor:'bg-pink-900',
         sparkleColor:[
@@ -24,7 +24,7 @@ export const approach = [
         order: "Phase 3",
         heading:"Development & Launch",
         desc:`This is where the magic happens! Based on the approved design, 
-        I'll translate everything into functional code, building your website
+        we will translate everything into functional code, building your website
         from the ground up.`,
         bgColor:'bg-sky-600',
         sparkleColor:[[125, 211, 252]]

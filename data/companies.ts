@@ -17,12 +17,12 @@ export const companies = [
       img: "/host.svg",
       nameImg: "/hostName.svg",
     },
-    {
-      id: 4,
-      name: "stream",
-      img: "/s.svg",
-      nameImg: "/streamName.svg",
-    },
+    // {
+    //   id: 4,
+    //   name: "stream",
+    //   img: "/s.svg",
+    //   nameImg: "/streamName.svg",
+    // },
     {
       id: 5,
       name: "docker.",
