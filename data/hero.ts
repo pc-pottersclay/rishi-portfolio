@@ -1,5 +1,5 @@
 export const heroContent = {
-    upperSubtitle: "DYNAMIC WEB MAGIC WITH NEXT.JS",
+    upperSubtitle: "DYNAMIC TECH MAGIC WITH PC",
     mainTitle: "Transforming Concepts into Seamless User Experiences",
     
 }
