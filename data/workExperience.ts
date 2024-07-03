@@ -16,14 +16,14 @@ export const workExperience = [
     {
       id: 3,
       title: "Seasoned Designers",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+      desc: "Our seasoned designers bring exceptional creativity and skill to craft visually stunning and highly functional websites tailored to your unique needs",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
       title: "Seasoned Content Writers",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      desc: "Our seasoned content writers deliver engaging and impactful content that perfectly captures your brand's voice and message.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
