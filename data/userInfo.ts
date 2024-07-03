@@ -3,6 +3,6 @@ export const userInfo = {
     lastName:"Doe",
     userProfession:'Next.Js Developer',
     userLocation: 'Croatia',
-    userEmail:'jhondoe@gmail.com'
+    userEmail:'pottersclaypc@gmail.com'
     
 }

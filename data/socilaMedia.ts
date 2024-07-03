@@ -7,11 +7,11 @@ export const socialMedia = [
     {
       id: 2,
       img: "/twit.svg",
-      link:'https://github.com/pc-pottersclay'
+      link:'https://x.com/pcpottersclay'
     },
     {
       id: 3,
-      img: "/link.svg",
-      link:'https://github.com/pc-pottersclay'
+      img: "/insta.svg",
+      link:'https://www.instagram.com/pc_pottersclay/'
     },
   ];

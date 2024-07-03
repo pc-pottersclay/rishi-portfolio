@@ -23,7 +23,7 @@ function Hero() {
                             className="text-center text-[40px] md:text-5xl lg:text-6xl"
                         />
                         <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                            Hi! I&apos;m {userInfo.firstName}, a {userInfo.userProfession} based in {userInfo.userLocation}.
+                            Hello from the team of PC
                         </p>
                         <a href='#about'>
                             <MagicButton title="Show my work" position='right' icon={<FaLocationArrow/> } />
