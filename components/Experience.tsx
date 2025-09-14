@@ -29,6 +29,8 @@ const Experience = () => {
               <Image
                 src={card.thumbnail}
                 alt={card.thumbnail}
+                height={1}
+                  width={1}
                 className="lg:w-32 md:w-20 w-16"
               />
               <div className="lg:ms-5">

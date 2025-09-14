@@ -77,9 +77,7 @@ export const BentoGridItem = ({
         className
       )}
       style={{
-        background: "rgb(4,7,29)",
-        backgroundColor:
-          "linear-gradient(90deg, rgba(4,7,29,1) 0%, rgba(12,14,35,1) 100%)",
+        background: "linear-gradient(90deg, rgba(4,7,29,1) 0%, rgba(12,14,35,1) 100%)"
       }}
     >
       <div className={`${id === 6 && "flex justify-center"} h-full`}>
@@ -88,6 +86,8 @@ export const BentoGridItem = ({
             <Image
               src={img}
               alt={img}
+              height={1000}
+                  width={1000}
               className={cn(imgClassName, "object-cover object-center ")}
             />
           )}
@@ -100,6 +100,8 @@ export const BentoGridItem = ({
             <Image
               src={spareImg}
               alt={spareImg}
+              height={1}
+                  width={1}
               className="object-cover object-center w-full h-full"
             />
           )}
@@ -136,7 +138,7 @@ export const BentoGridItem = ({
               <div className="flex flex-col gap-3 md:gap-3 lg:gap-8">
                 {leftLists.map((item, i) => (
                   <span
-                    key={i}
+                    key={item}
                     className="lg:py-4 lg:px-3 py-2 px-3 text-xs lg:text-base opacity-50 
                     lg:opacity-100 rounded-lg text-center bg-[#10132E]"
                   >
@@ -149,7 +151,7 @@ export const BentoGridItem = ({
                 <span className="lg:py-4 lg:px-3 py-4 px-3  rounded-lg text-center bg-[#10132E]"></span>
                 {rightLists.map((item, i) => (
                   <span
-                    key={i}
+                    key={item}
                     className="lg:py-4 lg:px-3 py-2 px-3 text-xs lg:text-base opacity-50 
                     lg:opacity-100 rounded-lg text-center bg-[#10132E]"
                   >
